@@ -1,3 +1,5 @@
+#Author:- Nikhil Balwani Parshwa Shah
+
 class Stack:                                             # Substitute class for stack
      def __init__(self):
          self.items = []
