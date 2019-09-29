@@ -4,4 +4,6 @@ Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. Th
 	3) No disk may be placed on top of a smaller disk.
 
 ![](output.png)
-**Figure 1**- Output screenshots
+
+
+**Output screenshots** 
